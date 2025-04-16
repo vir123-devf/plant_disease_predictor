@@ -74,4 +74,4 @@ Users can upload an image of a plant leaf and receive an instant disease predict
 
 ## 🖼️ Sample UI
 
-![Streamlit App Screenshot](screenshot.png)
+![Streamlit App Screenshot]()
